@@ -20,7 +20,3 @@ Linux Ubuntu 64 bit
 * [TensorFlow Machine Learning Cookbook](https://www.packtpub.com/big-data-and-business-intelligence/tensorflow-machine-learning-cookbook?utm_source=GitHub&utm_medium=Repository&utm_campaign=9781786462169)
 
 
-### Download a free PDF
-
- <i>If you have already purchased a print or Kindle version of this book, you can get a DRM-free PDF version at no cost.<br>Simply click on the link to claim your free PDF.</i>
-<p align="center"> <a href="https://packt.link/free-ebook/9781786468574">https://packt.link/free-ebook/9781786468574 </a> </p>
