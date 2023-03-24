@@ -9,7 +9,7 @@ model = tf.initialize_all_variables()
 
 with tf.Session() as session:
     merged = tf.merge_all_summaries()
-    writer = tf.train.SummaryWriter("/tmp/tensorflowlogs",session.graph)
+    writer = tf.train.SummaryWriter("/tmp/tensorflowlogs",session.graph_def)
     session.run(model)
     print(session.run(y))
 
